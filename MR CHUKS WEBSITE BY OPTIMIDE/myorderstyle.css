@@ -1,0 +1,262 @@
+
+body, html {
+    margin: 0;
+    padding: 0;
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1440;
+height: 10px;
+angle: 0 deg;
+opacity: 1;
+padding-top: 30px;
+padding-right: 48px;
+padding-bottom: 18px;
+padding-left: 48px;
+gap: 45px;
+background: rgba(255, 255, 255, 1);
+
+        
+    
+}
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    align-content: space-between;
+    align-content:space-evenly ;
+    width: 911;
+height: 44;
+angle: 0 deg;
+opacity: 1;
+gap: 150px;
+padding: 10px;
+margin-left: 4px;
+
+a {
+    text-decoration: none;
+    color: rgba(31, 41, 55, 1);
+
+ 
+}
+
+.home {
+    color: rgba(255, 122, 24, 1);
+}
+}
+.login {
+    width: 160px;
+height: 54px;
+angle: 0 deg;
+opacity: 1;
+padding-top: 15px;
+padding-right: 30px;
+padding-bottom: 15px;
+padding-left: 30px;
+gap: 16px;
+border-radius: 10px;
+background:  rgba(255, 122, 24, 1);
+color: white;
+border-color:rgba(255, 122, 24, 1) ;
+
+
+}
+.content {
+    background: var(--Soft-Gray, rgba(243, 244, 246, 1));
+    height: 100vh;
+    margin-top: 10px;
+    padding: 20px;
+    padding-top: 100px;
+    padding-bottom: 300px;
+   
+
+angle: 0 deg;
+opacity: 1;
+
+}
+.card {
+   display: flex;
+   flex-direction: column;
+   flex-direction: column;
+justify-content: center;
+align-items: center;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+   
+border-radius: 4px;
+
+background: var(--White, rgba(255, 255, 255, 1));
+width: 684;
+height: 816;
+angle: 0 deg;
+opacity: 1;
+gap: 23px;
+top: 201px;
+left: 378px;
+border-radius: 4px;
+padding-top: 20px;
+padding-right: 16px;
+padding-bottom: 20px;
+padding-left: 16px;
+
+    
+    
+}
+.price {
+    display: flex;
+    justify-content: space-between;
+   
+
+angle: 0 deg;
+opacity: 1;
+gap: 100px;
+
+}
+.promo {
+   margin-right: auto;
+   margin-left: auto;
+}
+.logins {
+    width: 100px;
+height: 50px;
+angle: 0 deg;
+opacity: 1;
+gap: 16px;
+border-radius: 10px;
+padding-top: 15px;
+padding-right: 19px;
+padding-bottom: 15px;
+padding-left: 19px;
+background: var(--Primary-Color, rgba(255, 122, 24, 1));
+margin-left: 10px;
+border-color: rgba(255, 122, 24, 1);
+color: white;
+
+}
+input {
+    
+    width: 250px;
+height: 52;
+angle: 0 deg;
+opacity: 1;
+gap: 10px;
+border-radius: 8px;
+padding-top: 15px;
+padding-right: 10px;
+padding-bottom: 15px;
+padding-left: 10px;
+border-width: 1px;
+
+}
+.prices {
+    width: 380px;
+    margin-left: auto;
+    margin-right: auto;
+height: 156;
+angle: 0 deg;
+opacity: 1;
+gap: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+
+}
+.btn {
+  display: flex; 
+height: 52;
+angle: 0 deg;
+opacity: 1;
+
+}
+.btn-d {
+    width: 190px;
+height: 52;
+angle: 0 deg;
+opacity: 1;
+gap: 10px;
+padding-top: 15px;
+padding-right: 10px;
+padding-bottom: 15px;
+padding-left: 10px;
+border-top-left-radius: 8px;
+border-bottom-left-radius: 8px;
+background: var(--Primary-Color, rgba(255, 122, 24, 1));
+border-color:rgba(255, 122, 24, 1) ;
+color: white;
+
+}
+.btn-p {
+    width: 190px;
+height: 52;
+angle: 0 deg;
+opacity: 1;
+gap: 10px;
+padding-top: 15px;
+padding-right: 10px;
+padding-bottom: 15px;
+padding-left: 10px;
+border-top-right-radius: 8px;
+border-bottom-right-radius: 8px;
+background: var(--Stroke, rgba(189, 189, 189, 1));
+border-color:  var(--Stroke, rgba(189, 189, 189, 1));
+color: white;
+
+}
+.price-t {
+  display: flex;
+    justify-content: space-between; 
+    font-family: Inter;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 24px;
+leading-trim: NONE;
+line-height: 14px;
+letter-spacing: 0%;
+margin-top: 50px;
+ 
+}
+h2 {
+    color: rgba(0, 0, 0, 1);
+
+}
+.paragraph {
+    width: 390px;
+height: 112;
+angle: 0 deg;
+opacity: 1;
+gap: 10px;
+border:  1px solid var(--Stroke, rgba(189, 189, 189, 1));
+border-radius: 8px;
+padding-top: 10px;
+padding-right: 10px;
+padding-bottom: 54px;
+padding-left: 10px;
+border-width: 1px;
+
+}
+.check-out {
+   
+    width: 400px;
+height: 50;
+angle: 0 deg;
+opacity: 1;
+gap: 16px;
+border-radius: 10px;
+padding-top: 18px;
+padding-right: 19px;
+padding-bottom: 18px;
+padding-left: 19px;
+background: var(--Primary-Color, rgba(255, 122, 24, 1));
+border-color:  var(--Primary-Color, rgba(255, 122, 24, 1));
+color: white;
+a {
+    text-decoration: none;
+    color: white;
+}
+
+}
+footer {
+    margin-top: -100px;
+    margin-bottom: 0;
+}

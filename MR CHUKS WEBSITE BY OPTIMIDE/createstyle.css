@@ -1,0 +1,207 @@
+body, html {
+    margin: 0;
+    
+}
+main {
+    margin-bottom: -10px;
+    height: 1000px;
+    margin-bottom: 20px;
+    
+}
+
+.aside {
+    background: linear-gradient(rgba(255, 122, 24, 0.7)), url(./Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1024px;
+    padding: 10px;
+    width: 50%;
+    height: 1000px;
+    
+
+
+}
+.chuks {
+   width: 410;
+height: 210;
+margin-top: 349px;
+margin-bottom: 143px;
+gap: 13px;
+angle: 0 deg;
+opacity: 1;
+
+    text-align: center;
+    color: white;
+
+    p {
+        font-family: Inter;
+font-weight: 500px;
+font-style: Medium;
+font-size: 24px;
+leading-trim: NONE;
+line-height: 34px;
+letter-spacing: 0%;
+text-align: center;
+
+    }
+}
+.section {
+    display: flex;
+    
+
+}
+.login-page {
+    display: flex;
+    justify content: center;
+    align content: center;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    opacity: 1;
+    padding: 10px;
+    gap: 16px;
+
+}
+input {
+    width: 410px;
+    height: 15px;
+    angle: 0 deg;
+    opacity: 1;
+    gap: 6px;
+    border-radius: 5px;
+    padding: 20px;
+
+}
+.check {
+    margin-top:10px;
+}
+.account {
+    text-align: center;
+}
+.forgot {
+    margin-left: 330px;
+    color: rgba(30, 136, 229, 1);
+
+}
+.continue {
+    width: 450px;
+height: 60px;
+angle: 0 deg;
+opacity: 1;
+gap: 16px;
+padding-top: 18px;
+padding-right: 196px;
+padding-bottom: 18px;
+padding-left: 196px;
+border-radius: 10px;
+background-color:rgba(255, 122, 24, 1);
+ a {
+    text-decoration: none;
+    color: white;
+ }
+
+}
+.btn-p  {
+    
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+  width: 450;
+height: 40;
+gap: 20px;
+angle: 0 deg;
+opacity: 1;
+padding-top: 12px;
+padding-bottom: 12px;
+    
+}
+.btn-g {
+    display: flex;
+    flex-direction: column;
+    width: 450;
+height: 120;
+gap: 24px;
+angle: 0 deg;
+opacity: 1;
+
+
+}
+.btn-con {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 450;
+height: 48;
+angle: 0 deg;
+opacity: 1;
+padding-top: 4px;
+padding-right: 113px;
+padding-bottom: 4px;
+padding-left: 113px;
+border-radius: 6px;
+border-width: 1px;
+background-color:  rgba(255, 255, 255, 1);
+
+}
+.create {
+    font-family: Inter;
+font-weight: 400px;
+font-style: Regular;
+font-size: 12px;
+leading-trim: NONE;
+line-height: 16px;
+letter-spacing: 0%;
+text-align: center;
+justify-content: center;
+color:  rgba(97, 97, 97, 1);
+
+a {
+    text-decoration: none;
+     color: rgba(30, 136, 229, 1);
+
+
+}
+
+}
+footer {
+background: rgba(85, 40, 40, 0.829);
+color: white;
+padding-left: 50px;
+padding-right: 200px;
+margin-top: 10px;
+padding-top: 20px;
+
+p {
+    color: rgba(255, 255, 255, 1);
+    font-weight: lighter;
+}
+
+}
+.brown {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+   color: rgba(255, 255, 255, 1);
+ 
+
+
+}
+.bring {
+    font-family: Jost;
+font-weight: 400px;
+font-size: 24px;
+line-height: 36px;
+letter-spacing: 0%;
+color: rgba(255, 255, 255, 1);
+margin-bottom: 60px;
+
+}
+
+.page-footer {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
